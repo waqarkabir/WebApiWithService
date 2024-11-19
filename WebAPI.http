@@ -5,7 +5,31 @@ Accept: application/json
 
 ###
 
-GET {{WebAPI_HostAddress}}/pizza/5
+GET {{WebAPI_HostAddress}}/pizza/3
 Accept: application/json
+
+###
+
+POST {{WebAPI_HostAddress}}/pizza/
+Content-Type : application/json
+
+{
+    "name": "Hawaii",
+    "isGlutenFree": false
+}
+###
+
+PUT {{WebAPI_HostAddress}}/pizza/3
+Content-Type: application/json
+
+{
+    "id": 3,
+    "name": "Hawaiian",
+    "isGlutenFree": false
+}
+
+###
+
+DELETE {{WebAPI_HostAddress}}/pizza/3
 
 ###

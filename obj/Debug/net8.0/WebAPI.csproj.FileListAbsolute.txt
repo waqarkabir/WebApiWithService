@@ -33,3 +33,4 @@ D:\Learning\AspNetCoreMsLearn\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
 D:\Learning\AspNetCoreMsLearn\WebAPI\bin\Debug\net8.0\WebAPI.staticwebassets.endpoints.json
 D:\Learning\AspNetCoreMsLearn\WebAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 D:\Learning\AspNetCoreMsLearn\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Learning\AspNetCoreMsLearn\WebAPI\obj\Debug\net8.0\WebAPI.sourcelink.json
